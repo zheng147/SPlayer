@@ -6,7 +6,7 @@ import router from "@/router";
 import piniaPluginPersistedstate from "pinia-plugin-persistedstate";
 import packageJson from "@/../package.json";
 
-// 全局样式
+// 全局样
 import "@/style/main.scss";
 import "@/style/animate.scss";
 
